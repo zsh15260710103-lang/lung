@@ -1,0 +1,13 @@
+{
+  "features": [
+    "TNM",
+    "CEA",
+    "KI67",
+    "Differentiation",
+    "Size"
+  ],
+  "threshold": 0.26,
+  "use_calibrated": true,
+  "sklearn_version": "1.9.0",
+  "xgboost_version": "3.4.1"
+}
